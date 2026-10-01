@@ -1,0 +1,13 @@
+version = 0.1
+
+[default.deploy.parameters]
+stack_name = "ws-serverless-patterns"
+resolve_s3 = true
+s3_prefix = "ws-serverless-patterns"
+capabilities = "CAPABILITY_IAM CAPABILITY_AUTO_EXPAND"
+image_repositories = []
+confirm_changeset = true
+disable_rollback = true
+
+[default.global.parameters]
+region = "us-east-1"
