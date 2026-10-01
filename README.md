@@ -33,4 +33,4 @@ Each module contains the implementation, configuration, screenshots, and documen
 
 ## AI Tool Disclosure
 
-OpenAI Codex was used to help organize the repository, explain workshop instructions, and troubleshoot development steps. The team remains responsible for understanding, verifying, and submitting the work.
+This assignment was completed with limited assistance from OpenAI Codex. The tool was used to clarify instructions, explain technical concepts and troubleshoot errors.
